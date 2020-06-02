@@ -9,9 +9,9 @@ if os.path.exists('.env'):
     organization_name=os.getenv("ORGANIZATION_NAME")
     redirection_url=os.getenv("REDIRECTION_URL")
 else:
-    token = os.environ("TOKEN")
-    organization_name=os.environ("ORGANIZATION_NAME")
-    redirection_url=os.environ("REDIRECTION_URL")
+    token = os.environ.get("TOKEN")
+    organization_name=os.environ.get("ORGANIZATION_NAME")
+    redirection_url=os.environ.get("REDIRECTION_URL")
 
 app=Flask(__name__)
 @app.route('/')
