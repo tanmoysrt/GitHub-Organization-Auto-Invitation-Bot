@@ -1,13 +1,17 @@
 from flask import Flask, request,jsonify,render_template
 from github import Github
-import os
+from boto.s3.connection import S3Connection
 from dotenv import load_dotenv
-
+import os
 if os.path.exists('.env'):
     load_dotenv('.env')
-token = os.getenv("TOKEN")
-organization_name=os.getenv("ORGANIZATION_NAME")
-redirection_url=os.getenv("REDIRECTION_URL")
+    token = os.getenv("TOKEN")
+    organization_name=os.getenv("ORGANIZATION_NAME")
+    redirection_url=os.getenv("REDIRECTION_URL")
+else:
+    token = os.environ("TOKEN")
+    organization_name=os.environ("ORGANIZATION_NAME")
+    redirection_url=os.environ("REDIRECTION_URL")
 
 app=Flask(__name__)
 @app.route('/')
