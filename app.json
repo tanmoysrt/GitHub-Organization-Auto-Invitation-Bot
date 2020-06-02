@@ -6,7 +6,7 @@
     "keywords": ["github", "organization", "team","invitation","bot","chatbot","robot","auto-system"],
     "env" : {
         "TOKEN": {
-          "description": "Go To : https://github.com/settings/tokens Craete A New Token With 'admin:org' Permission & Paste It Here"
+          "description": "Go To : 'https://github.com/settings/tokens' Create A New Token With 'admin:org' Permission & Paste It Here"
         },
         "ORGANIZATION_NAME": {
           "description": "Name of Your Organization (Make Sure You Copy It From  Url)"
