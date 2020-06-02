@@ -15,7 +15,7 @@ else:
 app=Flask(__name__)
 @app.route('/')
 def index():
-    return render_template('register.html')
+    return render_template('register.html',organization_name=organization_name)
 @app.route('/invite',methods=['POST','GET'])
 def invite():
     if(request.method=='GET'):
