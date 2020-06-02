@@ -5,10 +5,10 @@
     "keywords": ["github", "organization", "team","invitation","bot","chatbot","robot","auto-system"],
     "env" : {
         "TOKEN": {
-          "description": "Genearate A Personal Token/GitHub API from GitHub & PAsted it here"
+          "description": "Genearate A Personal Token/GitHub API from GitHub & Pasted it here"
         },
         "ORGANIZATION_NAME": {
-          "description": "Name of Your Organization (Make Sure You Copy It Frmo  Url)"
+          "description": "Name of Your Organization (Make Sure You Copy It From  Url)"
         },
         "REDIRECTION_URL": {
           "description": "Redirected to this URL/Website After Successful Invitation"
