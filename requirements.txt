@@ -5,3 +5,4 @@ requests==2.22.0
 gunicorn==19.5.0
 PyGithub==1.51
 python-dotenv== 0.13.0
+boto==2.49.0
