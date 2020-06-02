@@ -5,9 +5,9 @@ from dotenv import load_dotenv
 
 if os.path.exists('.env'):
     load_dotenv()
-    token = os.getenv("token")
-    organization_name=os.getenv("organization_name")
-    redirection_url=os.getenv("redirection_url")
+token = os.getenv("token")
+organization_name=os.getenv("organization_name")
+redirection_url=os.getenv("redirection_url")
 
 app=Flask(__name__)
 @app.route('/')
