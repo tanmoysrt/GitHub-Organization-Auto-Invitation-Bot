@@ -1,0 +1,21 @@
+{
+    "name": "GitHub Organization/Team Invitation Bot",
+    "description": "Invite Members to Github Organization/Team automaticlly by @Tanmoy741127",
+    "repository": "",
+    "keywords": ["github", "organization", "team","invitation","bot","chatbot","robot","auto-system"],
+    "env" : {
+        "token": {
+          "description": "Genearate A Personal Token/GitHub API from GitHub & PAsted it here",
+          "value":"This will be replaced after deployment"
+        },
+        "organization_name": {
+          "description": "Name of Your Organization (Make Sure You Copy It Frmo  Url)",
+          "value": "This will be replaced after deployment"
+        },
+        "redirection_url": {
+          "description": "Redirected to this URL/Website After Successful Invitation",
+          "value": "This will be replaced after deployment"
+        }
+      }
+
+}
