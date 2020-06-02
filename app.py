@@ -4,10 +4,10 @@ import os
 from dotenv import load_dotenv
 
 if os.path.exists('.env'):
-    load_dotenv()
-token = os.getenv("token")
-organization_name=os.getenv("organization_name")
-redirection_url=os.getenv("redirection_url")
+    load_dotenv('.env')
+token = os.getenv("TOKEN")
+organization_name=os.getenv("ORGANIZATION_NAME")
+redirection_url=os.getenv("REDIRECTION_URL")
 
 app=Flask(__name__)
 @app.route('/')
@@ -27,4 +27,4 @@ def invite():
             return render_template('unsuccess.html')
 
 if __name__== '__main__':
-    app.run(debug=True)
+    app.run()
