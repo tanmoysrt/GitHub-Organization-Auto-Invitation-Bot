@@ -1,6 +1,5 @@
 from flask import Flask, request,jsonify,render_template
 from github import Github
-from boto.s3.connection import S3Connection
 from dotenv import load_dotenv
 import os
 if os.path.exists('.env'):
