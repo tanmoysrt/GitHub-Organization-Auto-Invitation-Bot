@@ -1,6 +1,5 @@
 # GitHub-Organization-Auto-Invitation-Bot
 # [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
-# [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 <h2 style='color:orange;'><b><i>Demo of Application :</i></b></h2>
 <div>
 <h4><u>First Page of Website</u>:</h2>
@@ -9,7 +8,7 @@
 <img src='https://raw.githubusercontent.com/Tanmoy741127/repo-additional-files/master/GitHub-Organization-Auto-Invitation-Bot/Slide2.JPG' style='align:center'>
 </div>
 <hr>
-<h2 style='color: green'><b><i>Installation :</i></b></h2>
+<h2><b><i>Installation :</i></b></h2>
 <h2><b><i>Process 1(Directly Deploy to Heroku):</i></b></h2>
 <ol>
 <li>
@@ -33,9 +32,29 @@
 <img src='https://raw.githubusercontent.com/Tanmoy741127/repo-additional-files/master/GitHub-Organization-Auto-Invitation-Bot/Slide7.JPG' >
 </li>
 <li>
+<p>Now, copy your GitHub Organization Name (in the given format)</p>
+<h4>Eg:</h4>
+<img src='https://raw.githubusercontent.com/Tanmoy741127/repo-additional-files/master/GitHub-Organization-Auto-Invitation-Bot/Slide8.JPG' style='align:center'>
+</li>
+<li>
+<p>Now <b>Click Here</b> :</p><a href="https://www.heroku.com/deploy?template=https://github.com/Tanmoy741127/GitHub-Organization-Auto-Invitation-Bot/tree/master">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</li>
+
+<li><p>Now, Follow the instructions given in below image & Click on <b>'Deploy App'</b> button</p>
+<img src='https://raw.githubusercontent.com/Tanmoy741127/repo-additional-files/master/GitHub-Organization-Auto-Invitation-Bot/Slide9.JPG' style='align:center'>
+</li>
+<li>
+<p>Click on <b>'View'</b> button to go to your website</p>
+<img src='https://raw.githubusercontent.com/Tanmoy741127/repo-additional-files/master/GitHub-Organization-Auto-Invitation-Bot/Slide10.JPG' style='align:center'>
+</li>
+<li>
+<p></p>
 <img src='' style='align:center'>
 </li>
 <li>
+<p></p>
 <img src='' style='align:center'>
 </li>
 </ol>
