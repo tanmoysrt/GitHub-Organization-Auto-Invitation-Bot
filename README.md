@@ -1,4 +1,5 @@
 # GitHub Organization Auto Invitation Bot
+<a href='https://opensource.org/licenses/BSD-2-Clause'><img src='https://img.shields.io/badge/License-BSD%202--Clause-orange.svg'></a>
 <hr>
 <h2 style='color:orange;'><b><i>Demo of Application :</i></b></h2>
 <div>
