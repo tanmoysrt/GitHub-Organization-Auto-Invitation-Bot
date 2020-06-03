@@ -1,5 +1,5 @@
 # GitHub-Organization-Auto-Invitation-Bot
-# [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+
 <h2 style='color:orange;'><b><i>Demo of Application :</i></b></h2>
 <div>
 <h4><u>First Page of Website</u>:</h2>
@@ -37,8 +37,8 @@
 <img src='https://raw.githubusercontent.com/Tanmoy741127/repo-additional-files/master/GitHub-Organization-Auto-Invitation-Bot/Slide8.JPG' style='align:center'>
 </li>
 <li>
-<p>Now <b>Click Here</b> :</p><a href="https://www.heroku.com/deploy?template=https://github.com/Tanmoy741127/GitHub-Organization-Auto-Invitation-Bot/tree/master" target="_blank">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+<div style='align-items: center'>
+<p>Now <b>Click Here</b> :<a href="https://www.heroku.com/deploy?template=https://github.com/Tanmoy741127/GitHub-Organization-Auto-Invitation-Bot/tree/master">  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy App"></p></div>
 </a>
 </li>
 
@@ -50,11 +50,11 @@
 <img src='https://raw.githubusercontent.com/Tanmoy741127/repo-additional-files/master/GitHub-Organization-Auto-Invitation-Bot/Slide10.JPG' style='align:center'>
 </li>
 <li>
-<p></p>
-<img src='' style='align:center'>
+<p>Your Invitation bot has ready... Just Share the link </p>
+<img src='https://raw.githubusercontent.com/Tanmoy741127/repo-additional-files/master/GitHub-Organization-Auto-Invitation-Bot/Slide11.JPG' style='align:center'>
 </li>
 <li>
-<p></p>
-<img src='' style='align:center'>
+<p>If the Invitation is successful, He will get a invitation mail from GitHub & will be redirected to your specified URL</p>
+<img src='https://raw.githubusercontent.com/Tanmoy741127/repo-additional-files/master/GitHub-Organization-Auto-Invitation-Bot/Slide12.JPG' style='align:center'>
 </li>
 </ol>
