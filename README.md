@@ -1,5 +1,5 @@
-# GitHub-Organization-Auto-Invitation-Bot
-
+# GitHub Organization Auto Invitation Bot
+<hr>
 <h2 style='color:orange;'><b><i>Demo of Application :</i></b></h2>
 <div>
 <h4><u>First Page of Website</u>:</h2>
@@ -9,7 +9,7 @@
 </div>
 <hr>
 <h2><b><i>Installation :</i></b></h2>
-<h2><b><i>Process 1(Directly Deploy to Heroku):</i></b></h2>
+<h2><b><i>Process 1 (Directly Deploy to Heroku):</i></b></h2>
 <ol>
 <li>
 <p>Go to <a href='https://github.com/settings/tokens'>https://github.com/settings/tokens</a> & Click on <b>'Generate New Token'</b></p>
@@ -37,8 +37,7 @@
 <img src='https://raw.githubusercontent.com/Tanmoy741127/repo-additional-files/master/GitHub-Organization-Auto-Invitation-Bot/Slide8.JPG' style='align:center'>
 </li>
 <li>
-<div style='align-items: center'>
-<p>Now <b>Click Here</b> :<a href="https://www.heroku.com/deploy?template=https://github.com/Tanmoy741127/GitHub-Organization-Auto-Invitation-Bot/tree/master">  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy App"></p></div>
+<p>Now <b>Click Here</b> :</p><a href="https://www.heroku.com/deploy?template=https://github.com/Tanmoy741127/GitHub-Organization-Auto-Invitation-Bot/tree/master">  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy App">
 </a>
 </li>
 
@@ -58,3 +57,7 @@
 <img src='https://raw.githubusercontent.com/Tanmoy741127/repo-additional-files/master/GitHub-Organization-Auto-Invitation-Bot/Slide12.JPG' style='align:center'>
 </li>
 </ol>
+<h2>LICENSE</h2>
+<p>Created By Tanmoy Sarkar(<a href='https://github.com/Tanmoy741127/'>@Tanmoy741127</a>)</p>
+<p>If you want to use this code you must add the <a href='https://github.com/Tanmoy741127/GitHub-Organization-Auto-Invitation-Bot/blob/master/LICENSE'>LICENSE</a> file in your project</p>
+<a href='https://opensource.org/licenses/BSD-2-Clause'><img src='https://img.shields.io/badge/License-BSD%202--Clause-orange.svg'></a>
