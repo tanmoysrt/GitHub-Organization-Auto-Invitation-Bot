@@ -1,4 +1,41 @@
 # GitHub-Organization-Auto-Invitation-Bot
-GitHub Organization Auto Invitation Bot with User Interface. Anyone need to give his email and submit. He will get invitation instantly to his emil address.
-[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+# [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+# [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+<h2 style='color:orange;'><b><i>Demo of Application :</i></b></h2>
+<div>
+<h4><u>First Page of Website</u>:</h2>
+<img src='https://raw.githubusercontent.com/Tanmoy741127/repo-additional-files/master/GitHub-Organization-Auto-Invitation-Bot/Slide1.JPG' style='align:center'>
+<h4><u>After  Successful or Unsuccessful Invitation</u> :</h4>
+<img src='https://raw.githubusercontent.com/Tanmoy741127/repo-additional-files/master/GitHub-Organization-Auto-Invitation-Bot/Slide2.JPG' style='align:center'>
+</div>
+<hr>
+<h2 style='color: green'><b><i>Installation :</i></b></h2>
+<h2><b><i>Process 1(Directly Deploy to Heroku):</i></b></h2>
+<ol>
+<li>
+<p>Go to <a href='https://github.com/settings/tokens'>https://github.com/settings/tokens</a> & Click on <b>'Generate New Token'</b></p>
+<img src='https://raw.githubusercontent.com/Tanmoy741127/repo-additional-files/master/GitHub-Organization-Auto-Invitation-Bot/Slide3.JPG' style='align:center'>
+</li>
+<li>
+<p>Give a name (as you wish) of your GitHub API</p>
+<img src='https://raw.githubusercontent.com/Tanmoy741127/repo-additional-files/master/GitHub-Organization-Auto-Invitation-Bot/Slide4.JPG' style='align:center'>
+</li>
+<li>
+<p>Must select this <b>'admin:org'</b> option </p>
+<img src='https://raw.githubusercontent.com/Tanmoy741127/repo-additional-files/master/GitHub-Organization-Auto-Invitation-Bot/Slide5.JPG' style='align:center'>
+</li>
+<li>
+<p>Now click on <b>'Generate Token'</b> button</p>
+<img src='https://raw.githubusercontent.com/Tanmoy741127/repo-additional-files/master/GitHub-Organization-Auto-Invitation-Bot/Slide6.JPG' style='align:center'>
+</li>
+<li>
+<p>Now copy this <b>'Token'</b> in a safe place</p>
+<img src='https://raw.githubusercontent.com/Tanmoy741127/repo-additional-files/master/GitHub-Organization-Auto-Invitation-Bot/Slide7.JPG' >
+</li>
+<li>
+<img src='' style='align:center'>
+</li>
+<li>
+<img src='' style='align:center'>
+</li>
+</ol>
