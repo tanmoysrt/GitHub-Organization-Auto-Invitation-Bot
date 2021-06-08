@@ -58,6 +58,8 @@
 <img src='https://raw.githubusercontent.com/Tanmoy741127/repo-additional-files/master/GitHub-Organization-Auto-Invitation-Bot/Slide12.JPG' style='align:center'>
 </li>
 </ol>
+<h2>An Alternative Way</h2>
+[![Deploy](https://deploy.zeet.co/GitHub-Organization-Auto-Invitation-Bot.svg)](https://deploy.zeet.co/?url=https://github.com/Tanmoy741127/GitHub-Organization-Auto-Invitation-Bot)
 <h2>LICENSE</h2>
 <p>Created By Tanmoy Sarkar(<a href='https://github.com/Tanmoy741127/'>@Tanmoy741127</a>)</p>
 <p>If you want to use this code you must add the <a href='https://github.com/Tanmoy741127/GitHub-Organization-Auto-Invitation-Bot/blob/master/LICENSE'>LICENSE</a> file in your project</p>
