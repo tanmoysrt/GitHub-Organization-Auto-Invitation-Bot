@@ -1,6 +1,6 @@
 flask==1.1.1
 feedparser==5.2.1
-jinja2==2.11.1
+jinja2==2.11.3
 requests==2.22.0
 gunicorn==19.5.0
 PyGithub==1.51
